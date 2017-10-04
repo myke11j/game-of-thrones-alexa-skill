@@ -1,0 +1,24 @@
+{
+  "name": "game-of-thrones-alexa-skill",
+  "version": "1.0.0",
+  "description": "A fun Alexa skill based on Game of Thrones Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myke11j/game-of-thrones-alexa-skill.git"
+  },
+  "keywords": [
+    "alexa",
+    "game-of-thrones",
+    "alexa-skill"
+  ],
+  "author": "Mukul <mukul1904@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myke11j/game-of-thrones-alexa-skill/issues"
+  },
+  "homepage": "https://github.com/myke11j/game-of-thrones-alexa-skill#readme"
+}
