@@ -1,5 +1,45 @@
 {
-  "key": "value",
-  "key2": "value2",
-  "other_key": "other_value"
+  "session": {
+    "new": true,
+    "sessionId": "",
+    "application": {
+      "applicationId": ""
+    },
+    "attributes": {},
+    "user": {
+      "userId": ""
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "",
+    "intent": {
+      "name": "GoTTriviaIntent",
+      "slots": {
+        "House": {
+          "name": "House",
+          "value": "starks"
+        }
+      }
+    },
+    "locale": "en-US",
+    "timestamp": new Date()
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": ""
+      },
+      "user": {
+        "userId": ""
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
 }

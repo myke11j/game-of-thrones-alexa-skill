@@ -60,3 +60,5 @@ typings/
 #node-lambda files
 deploy.env
 event.json
+.lambda
+deploy.sh
